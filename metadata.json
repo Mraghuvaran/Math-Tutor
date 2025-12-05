@@ -1,0 +1,7 @@
+{
+  "name": "MathLens AR",
+  "description": "An interactive AR tutor that solves math problems from your camera and explains them step-by-step.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
